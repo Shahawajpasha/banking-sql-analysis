@@ -1,4 +1,4 @@
-![SQL Banner](sql%20banner%20image.jpeg)
+![SQL Banner](banner.jpeg)
 
 # Banking Transaction SQL Analysis
 
@@ -29,4 +29,5 @@ This project analyzes synthetic banking transaction data using SQL to generate b
 
 ## Author
 Shahawaj Pasha
+
 
