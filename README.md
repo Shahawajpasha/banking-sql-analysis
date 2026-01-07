@@ -1,6 +1,6 @@
 # Banking Transaction SQL Analysis
 
-![Dashboard Preview](banner.jpg)
+![Dashboard Preview](banner.jpeg)
 
 ## 📊 Project Overview
 This project analyzes synthetic banking transaction data using SQL to generate actionable business insights related to customer behavior, spending patterns, and transaction risk.
@@ -66,4 +66,5 @@ customer_lifetime_value.csv | Customer lifetime value |
 **Shahawaj Pasha**  
 Aspiring Data Analyst  
 [LinkedIn](https://linkedin.com/in/shahawajpasha) | [Portfolio](https://shahawajpasha.github.io)
+
 
