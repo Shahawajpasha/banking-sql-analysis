@@ -1,0 +1,3 @@
+day_type, transactions, total_spent, avg_amount
+Weekday,      3,        112900.0,    37633.3333333333
+Weekend,      3,        135000.0,    45000.0

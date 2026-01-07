@@ -1,0 +1,6 @@
+customer_id,      city, segment,   txn_count,  lifetime_value
+C101,        Bangalore, Retail,    2,          53500.0
+C102,        Mumbai,    Retail,    1,          12000.0
+C103,        Delhi,     Corporate, 1,          78000.0
+C104,        Pune,      Retail,    1,          5400.0
+C105,        Chennai,   Corporate, 1,          99000.0
